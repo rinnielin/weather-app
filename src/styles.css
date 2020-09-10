@@ -1,0 +1,62 @@
+h1 {
+  font-family: "Comfortaa", cursive;
+  text-align: center;
+  font-size: 55px;
+  padding: 10px;
+  color: white;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  color: white;
+}
+h3 {
+  font-family: "Comfortaa", cursive;
+
+  font-size: 90px;
+  position: relative;
+  right: -5px;
+  top: 25px;
+  color: white;
+}
+h4 {
+  font-family: "Comfortaa", cursive;
+  font-size: 20px;
+  padding: 20px;
+  position: relative;
+  top: -50px;
+  color: white;
+}
+.weather-app {
+  background-image: linear-gradient(
+    -225deg,
+    #473b7b 0%,
+    #3584a7 51%,
+    #30d2be 100%
+  );
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 15px;
+  border: 1px solid;
+  border-radius: 10px;
+  border-color: white;
+}
+.form-inline {
+  position: relative;
+  right: -175px;
+}
+.fa-cloud-moon {
+  position: relative;
+  right: -250px;
+  top: -75px;
+  color: white;
+}
+
+.row {
+  color: white;
+}
+
+p {text-align: center}
